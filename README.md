@@ -13,4 +13,8 @@ To run the code just run the following command from inside the repo:
 
 You can modify the initial conditions, resolution, and other physical parameters to your liking. Running the base file should get you something that looks like this:
 
-![Raytrace gif](Images/raytracing_darkmode.gif)
+<p align="center">
+  <img src="Images/raytracing_darkmode.gif#gh-dark-mode-only" width="80%">
+  <img src="Images/raytracing_lightmode.gif#gh-light-mode-only" width="80%">
+</p>
+
