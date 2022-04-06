@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from tqdm import tqdm
 
-plt.style.use("dark_mode")
+# plt.style.use("dark_mode") I use a custom style sheet in matplotlib
 
 # ----------------------------------------
 #              Globals
