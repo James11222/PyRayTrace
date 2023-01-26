@@ -1,6 +1,6 @@
 # Running the Code
 
-To run the code just run the following command from inside the repo:
+To run the code just run the following command from inside the repo
 
 ```
 python raytrace.py
